@@ -1,0 +1,32 @@
+3) Crear un programa para registro de 5 empleados para una planilla de una empresa
+constructora, por cada trabajador se registrarán los siguientes datos:
+
+JELA DE INGENIERÍA EN COMPUTACIÓN Carrera: Técnico en Ingeniería de Sis
+Informáticos.
+
+Y Modalidad: Presencial.
+"CA Y FEPANE — ici buorolo de Apicaciones
+a. Nombre completo
+b. DUI
+NIT
+Salario por Hora
+e. Horas trabajadas
+
+e
+d.
+
+El programa, luego de registrar los 5 empleados, mostrará el lstado de los
+empleados ingresados (5) mostrando los siguientes datos como por ejemplo:
+
+No olvidar mostrar el total de la planilla.
+
+4) Investigar qué función matemática se utiliza para encontrar la raíz cuadrada de un
+número y desarrollar un programa que dé solución a ecuaciones de tipo:
+a. ax+bxic=0
+
+Encontrando los valores respectivos de x1 y x2 en base a la siguiente fórmula:
+—b+ 07 -4ac)
+2a
+
+5) Investigar sobre librería System.IO y su uso. Crear un programa que permita ver en
+consola el contenido de un archivo plano (txt).
